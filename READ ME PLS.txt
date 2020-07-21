@@ -1,0 +1,7 @@
+Dont rename any files otherwise the software will no longer work
+
+If is logged "Npm is not recognized" Install node.js , Link : https://nodejs.org/en/
+
+If you have any questions join my discord by choosing "4" in the dox tool to join
+
+DOX TOOL 0.2 SLIME BY OAFU
